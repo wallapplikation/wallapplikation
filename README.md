@@ -1,16 +1,20 @@
-## Hi there 👋
+# Vitali Wall — WallApplikation
 
-<!--
-**wallapplikation/wallapplikation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Elegante Mobile Apps. Lokal. Sicher. Kein Tracking.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Apps
+| App | Beschreibung | Store |
+|---|---|---|
+| FitTracker | Körpergewicht & Training tracken — 100% offline | bald auf Google Play |
+
+## 📬 Kontakt
+wallapplikation@gmail.com
+
+---
+*Alle Apps speichern Daten ausschließlich lokal auf deinem Gerät.*
